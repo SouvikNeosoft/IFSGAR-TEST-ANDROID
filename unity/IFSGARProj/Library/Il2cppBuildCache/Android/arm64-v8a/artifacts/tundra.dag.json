@@ -1,0 +1,137 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp /Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --baselib-directory=\"/Applications/Unity/Hub/Editor/2020.3.16f1/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser\" --directory=\"/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput\"",
+      "Inputs": [
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Newtonsoft.Json.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.Data.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.Numerics.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.Runtime.Serialization.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.Linq.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.Mathematics.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARCore.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARFoundation.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Management.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ARModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VRModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "\"/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\""
+      ],
+      "Outputs": [
+        "/Users/neosoft/Documents/ReactNativeWorkspace/UnityTestProjectTwo 2/unity/IFSGARProj/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../../../Library"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
