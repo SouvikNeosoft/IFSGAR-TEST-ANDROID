@@ -28,7 +28,7 @@ build/
 .gradle
 local.properties
 *.iml
-android/UnityExport/*
+android/UnityExport/unityLibrary/symbols/arm64-v8a/libil2cpp.so
 
 # node.js
 #
